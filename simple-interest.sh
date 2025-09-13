@@ -12,3 +12,4 @@ si=$(( (p * r * t) / 100 ))
 
 echo "Simple Interest = $si"
 chmod +x simple-interest.sh
+./simple-interest.sh
